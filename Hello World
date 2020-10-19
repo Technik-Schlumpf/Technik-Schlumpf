@@ -1,0 +1,12 @@
+// This is a easy Hello World Code 
+//Copyright Technik-Schlumpf
+
+#include <iostream>
+using namespace std;
+
+int main() {
+
+	cout << "Hello World" << std::endl;
+	cout << std::endl;
+	return 0;
+}
